@@ -5,7 +5,6 @@
 
 
 
-
 ### Question to build template
 - **Contact information**
   - Name
